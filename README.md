@@ -1,7 +1,5 @@
 <h1 align="center">Hey 👋, I'm Dhananjay Kuber</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-- 📫 How to reach me **dnkuber2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
