@@ -16,3 +16,5 @@ public class UserMapper extends MapReduceBase implements Mapper<LongWritable, Te
 		output.collect(new Text(users[0]), one);
 	}
 }
+
+hadoop jar jar_path package.class_name csv_path /output
