@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhananjay Kuber</h1>
-<h3 align="center">A Full-stack developer with a strong passion for frontend and backend development, specializing in the MERN (MongoDB, Express.js, React.js, Node.js) stack and looking for opportunities as a Software Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhananjaykuber&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjaykuber" /> </p>
-
-- 🌱 I’m currently learning **DSA, Cloud & Django**
-
-- 💬 Ask me about **Web development (MERN)**
 
 - 📫 How to reach me **contact.dhananjaykuber@gmail.com**
 
